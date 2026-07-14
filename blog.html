@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore career development articles on learnerships, international opportunities, and job search strategies. Get expert advice for advancing your career at Jobs and Gigs.">
+    <meta name="keywords" content="learnerships, international work experience, career development, job tips, entry-level jobs">
+    <meta name="author" content="Jobs and Gigs">
+    <title>Career Advice & Articles - Jobs and Gigs Blog</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        header {
+            background: linear-gradient(135deg, #FFD700 0%, #28A745 100%);
+            color: white;
+            padding: 30px 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        header p {
+            font-size: 1.1em;
+            opacity: 0.95;
+        }
+
+        .navbar {
+            position: relative;
+        }
+
+        .menu-btn {
+            background-color: rgba(255, 255, 255, 0.2);
+            color: white;
+            padding: 10px 20px;
+            border: 2px solid white;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 1em;
+            transition: all 0.3s;
+        }
+
+        .menu-btn:hover {
+            background-color: rgba(255, 255, 255, 0.3);
+        }
+
+        .dropdown-menu {
+            display: none;
+            position: absolute;
+            right: 0;
+            top: 100%;
+            background-color: white;
+            min-width: 200px;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+            border-radius: 8px;
+            margin-top: 10px;
+            z-index: 1000;
+            overflow: hidden;
+        }
+
+        .dropdown-menu.show {
+            display: block;
+        }
+
+        .dropdown-menu a {
+            color: #333;
+            padding: 12px 20px;
+            text-decoration: none;
+            display: block;
+            transition: all 0.3s;
+            font-weight: 500;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .dropdown-menu a:last-child {
+            border-bottom: none;
+        }
+
+        .dropdown-menu a:hover {
+            background-color: #FFD700;
+            color: #333;
+            padding-left: 30px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .blog-header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .blog-header h2 {
+            color: #28A745;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .blog-header p {
+            color: #6c757d;
+            font-size: 1.1em;
+        }
+
+        .blog-container {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 30px;
+        }
+
+        .blog-card {
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            overflow: hidden;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .blog-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+        }
+
+        .blog-header-badge {
+            background: linear-gradient(135deg, #FFD700 0%, #28A745 100%);
+            color: white;
+            padding: 20px;
+        }
+
+        .blog-title {
+            font-size: 1.8em;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .blog-meta {
+            font-size: 0.9em;
+            opacity: 0.9;
+            display: flex;
+            gap: 15px;
+        }
+
+        .blog-content {
+            padding: 25px;
+        }
+
+        .blog-content p {
+            line-height: 1.8;
+            margin-bottom: 15px;
+            color: #555;
+        }
+
+        .blog-content h3 {
+            color: #28A745;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            font-size: 1.2em;
+        }
+
+        .blog-content ul {
+            list-style-position: inside;
+            margin-bottom: 15px;
+            margin-left: 10px;
+        }
+
+        .blog-content li {
+            margin-bottom: 8px;
+            color: #555;
+        }
+
+        .highlight {
+            background-color: #fff3cd;
+            padding: 15px;
+            border-left: 4px solid #FFD700;
+            margin: 20px 0;
+            border-radius: 3px;
+        }
+
+        .read-more {
+            color: #28A745;
+            text-decoration: none;
+            font-weight: 600;
+            display: inline-block;
+            margin-top: 10px;
+        }
+
+        .read-more:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #6c757d;
+            border-top: 1px solid #ddd;
+            margin-top: 30px;
+        }
+
+        @media (max-width: 768px) {
+            .blog-header h2 {
+                font-size: 1.8em;
+            }
+
+            .blog-title {
+                font-size: 1.4em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+            <div style="display: flex; align-items: center; gap: 20px;">
+                <img src="logo.png" alt="Jobs and Gigs Logo" style="height: 80px; width: auto; object-fit: contain;">
+                <div>
+                    <h1>🎯 Jobs and Gigs</h1>
+                    <p>Blog & Resources</p>
+                </div>
+            </div>
+            <div class="navbar">
+                <button class="menu-btn" onclick="toggleMenu()">☰ Menu</button>
+                <div class="dropdown-menu" id="dropdownMenu">
+                    <a href="index.html">🏠 Home</a>
+                    <a href="jobs.html">💼 Browse Jobs</a>
+                    <a href="about-us.html">ℹ️ About Us</a>
+                    <a href="blog.html">📰 Blog</a>
+                    <a href="contact-us.html">📧 Contact Us</a>
+                    <a href="privacy-policy.html">🔒 Privacy Policy</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="blog-header">
+            <h2>📰 Career Blog</h2>
+            <p>Stay informed about South African learnerships, apprenticeships, and career development</p>
+        </div>
+
+        <div class="blog-container">
+            <!-- Blog 1 -->
+            <div class="blog-card">
+                <div class="blog-header-badge">
+                    <div class="blog-title">Getting Started with South African Learnerships</div>
+                    <div class="blog-meta">
+                        <span>📅 April 2026</span>
+                        <span>✍️ Career Team</span>
+                    </div>
+                </div>
+                <div class="blog-content">
+                    <p>Learnerships in South Africa are a fantastic way to gain practical skills and work experience while earning a stipend. Whether you're a school leaver or someone looking to change careers, learnerships offer a structured pathway to employment.</p>
+                    
+                    <h3>What is a Learnership?</h3>
+                    <p>A learnership is a work-based learning program that combines on-the-job training with theoretical learning. Participants work for an accredited employer while studying a National Qualification (NQ) at a registered training provider. The average duration is 12 months, though some programs can be longer.</p>
+
+                    <h3>Key Benefits</h3>
+                    <ul>
+                        <li>Earn a monthly stipend (typically R3,000 - R6,000)</li>
+                        <li>Gain real-world work experience</li>
+                        <li>Complete a recognized national qualification</li>
+                        <li>Often leads to permanent employment</li>
+                        <li>Build professional networks</li>
+                    </ul>
+
+                    <div class="highlight">
+                        <strong>Did you know?</strong> South Africa's learnership program is supported by the Department of Higher Education and Training (DHET), making it an affordable option for skill development.
+                    </div>
+
+                    <h3>Popular Learnership Fields</h3>
+                    <p>Common learnership opportunities include IT Support, Hospitality Management, Mechanical Engineering, Retail Management, and Business Administration. Companies like Dimension Data, Woolworths, Edcon, and Gestamp regularly offer learnership programs.</p>
+
+                    <p>Start your journey by browsing our <a href="jobs.html" style="color: #28A745; text-decoration: none; font-weight: 600;">Browse Jobs</a> page and filter for "Learnership" programs!</p>
+                </div>
+            </div>
+
+            <!-- Blog 2 -->
+            <div class="blog-card">
+                <div class="blog-header-badge">
+                    <div class="blog-title">Apprenticeships vs Learnerships: Understanding the Difference</div>
+                    <div class="blog-meta">
+                        <span>📅 March 2026</span>
+                        <span>✍️ Career Team</span>
+                    </div>
+                </div>
+                <div class="blog-content">
+                    <p>Many job seekers confuse apprenticeships and learnerships. While they're similar, there are important differences you should know. Understanding these distinctions will help you choose the right path for your career.</p>
+
+                    <h3>Learnerships</h3>
+                    <ul>
+                        <li>Regulated by DHET (Department of Higher Education and Training)</li>
+                        <li>Duration: Usually 12 months</li>
+                        <li>Focus: Broader skills and knowledge</li>
+                        <li>Qualification: National Qualification (NQ)</li>
+                        <li>Wage: Stipend provided</li>
+                    </ul>
+
+                    <h3>Apprenticeships</h3>
+                    <ul>
+                        <li>Regulated by the Department of Labour</li>
+                        <li>Duration: Typically 3-4 years</li>
+                        <li>Focus: Specific trade skills (e.g., electrical, plumbing, welding)</li>
+                        <li>Qualification: National Trade Certificate (NTC)</li>
+                        <li>Wage: Usually higher than learnership stipends</li>
+                    </ul>
+
+                    <div class="highlight">
+                        <strong>Pro Tip:</strong> Learnerships are ideal if you want to enter the job market quickly, while apprenticeships are better if you're interested in mastering a specific trade over a longer period.
+                    </div>
+
+                    <p>Both pathways provide valuable qualifications and job prospects. The choice depends on your career goals, time availability, and the field you're interested in pursuing.</p>
+                </div>
+            </div>
+
+            <!-- Blog 3 -->
+            <div class="blog-card">
+                <div class="blog-header-badge">
+                    <div class="blog-title">Top South African Companies Offering Learnerships</div>
+                    <div class="blog-meta">
+                        <span>📅 February 2026</span>
+                        <span>✍️ Career Team</span>
+                    </div>
+                </div>
+                <div class="blog-content">
+                    <p>South Africa's leading companies are investing in young talent through learnership programs. These programs not only develop skills but often lead to permanent employment. Here are some top companies actively recruiting learners.</p>
+
+                    <h3>Technology & IT</h3>
+                    <ul>
+                        <li><strong>Dimension Data (NTT Group):</strong> IT Support and Networking learnerships</li>
+                        <li><strong>Wix.com SA:</strong> Web development and coding learnerships</li>
+                        <li><strong>Microsoft SA:</strong> Cloud and software development programs</li>
+                    </ul>
+
+                    <h3>Retail & Trade</h3>
+                    <ul>
+                        <li><strong>Woolworths Group:</strong> Retail Management and Supply Chain learnerships</li>
+                        <li><strong>Takealot.com:</strong> E-commerce and fulfillment operations</li>
+                        <li><strong>Capitec Bank:</strong> Banking and financial services</li>
+                    </ul>
+
+                    <h3>Manufacturing & Engineering</h3>
+                    <ul>
+                        <li><strong>Gestamp South Africa:</strong> Mechanical and Manufacturing Engineering</li>
+                        <li><strong>Siemens SA:</strong> Electrical and automation engineering</li>
+                        <li><strong>Anglo American:</strong> Mining and engineering apprenticeships</li>
+                    </ul>
+
+                    <div class="highlight">
+                        <strong>Success Story:</strong> Many learners who complete their programs are offered permanent positions with their current employers or move to leadership roles at other companies.
+                    </div>
+
+                    <p>Visit our Jobs page regularly to check for new learnership openings from these and other companies!</p>
+                </div>
+            </div>
+
+            <!-- Blog 4 -->
+            <div class="blog-card">
+                <div class="blog-header-badge">
+                    <div class="blog-title">5 Tips to Succeed in Your Learnership Program</div>
+                    <div class="blog-meta">
+                        <span>📅 January 2026</span>
+                        <span>✍️ Career Team</span>
+                    </div>
+                </div>
+                <div class="blog-content">
+                    <p>Starting a learnership is an exciting opportunity! To make the most of it and increase your chances of securing permanent employment afterwards, follow these five key tips.</p>
+
+                    <h3>1. Be Punctual and Professional</h3>
+                    <p>Arrive on time every day and dress appropriately for your workplace. Employers notice reliability. A good attendance record and professional demeanor can lead to job offers after your learnership ends.</p>
+
+                    <h3>2. Take Initiative</h3>
+                    <p>Don't wait to be told what to do. Volunteer for tasks, ask questions, and show enthusiasm for learning. Employers appreciate learners who go the extra mile to understand the business.</p>
+
+                    <h3>3. Build Strong Relationships</h3>
+                    <p>Network with colleagues and mentors. These relationships can lead to job opportunities, references, and valuable advice. Join workplace groups and social events when available.</p>
+
+                    <h3>4. Excel in Your Studies</h3>
+                    <p>Balance your job with your academic work. The qualification you earn is just as important as the experience. Strong grades can enhance your CV and open more career doors.</p>
+
+                    <h3>5. Document Your Achievements</h3>
+                    <ul>
+                        <li>Keep track of projects you completed</li>
+                        <li>Document skills you've acquired</li>
+                        <li>Request testimonials from supervisors</li>
+                        <li>Save certificates for all training completed</li>
+                    </ul>
+
+                    <div class="highlight">
+                        <strong>Remember:</strong> Your learnership is a stepping stone to your career. Make it count! Many successful professionals today started with learnerships.
+                    </div>
+
+                    <p>Good luck on your learnership journey! If you have questions or need support, don't hesitate to reach out to your training provider or employer.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Jobs and Gigs. All rights reserved.</p>
+    </footer>
+
+    <script>
+        function toggleMenu() {
+            const menu = document.getElementById('dropdownMenu');
+            menu.classList.toggle('show');
+        }
+
+        document.addEventListener('click', function(e) {
+            const navbar = document.querySelector('.navbar');
+            if (!navbar.contains(e.target)) {
+                const menu = document.getElementById('dropdownMenu');
+                menu.classList.remove('show');
+            }
+        });
+    </script>
+</body>
+</html>

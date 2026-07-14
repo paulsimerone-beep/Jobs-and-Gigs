@@ -1,0 +1,1431 @@
+PAGE 1:
+ 
+ 
+ 
+  
+ 
+ 
+o  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Software Engineer III – Brackenfell, Cape Town  
+Closing Date:  13 July 2026 Reference Number:  SHO260629 -9 Job Type:  Full-
+Time  
+About the Role  We are seeking an experienced Software Engineer III  to take the 
+lead in designing, developing, and supporting complex enterprise applications. This 
+role involves working closely with system designers to deliver innovative, sustainable 
+solutions while mentoring junior engineers and ensuring high standards o f technical 
+quality.  
+You’ll be responsible for guiding projects through the full software development 
+lifecycle, applying advanced expertise in system analysis, architecture, and 
+integration. If you thrive in solving complex problems, driving technical excellence, 
+and building  high-performing teams, this opportunity is for you.  
+Key Responsibilities  
+• Lead the design, development, and implementation of enterprise -scale 
+applications  
+• Translate business requirements into robust technical solutions and 
+architectures   
+
+
+================================================================================
+
+PAGE 2:
+ 
+ 
+ 
+ • Conduct system analysis and oversee work delivered by junior engineers  
+• Write clean, scalable code and enforce coding standards through reviews and 
+QA 
+• Guide best practices in testing, documentation, and solution delivery  
+• Support and enhance existing systems while troubleshooting complex issues  
+• Drive adherence to organisational frameworks, Agile methodologies, and 
+DevOps practices  
+• Mentor and coordinate Software Engineer I and II team members  
+Qualifications  
+• Diploma/Degree in Information Systems or Computer Science (preferred)  
+• Strong performance in IKM assessments (Development & Design)  
+• Agile Foundation and Security (OWASP Top 10) training completed  
+• Advanced certification in programming languages or solution design  
+• Strong Java skills (essential); IBM ACE/CP4i exposure (preferred)  
+• Formal leadership training advantageous  
+Experience  
+• 5+ years as a Software Engineer/Analyst Programmer (essential)  
+• Proven track record on complex SDLC projects  
+• Expertise in .NET, .NET Core, and testing methodologies  
+• Strong background in system integration, database design (T -SQL), and 
+NoSQL (advantageous)  
+• UI/UX design principles, SOLID, and OOP experience  
+• Agile and DevOps project delivery experience  
+• Retail industry exposure (essential)  
+Knowledge & Skills  
+• Expert knowledge of GIT/TFS, application architecture, and web services 
+(SOAP/REST)  
+• Strong UML skills (sequence/class diagrams)  
+• Networking and security principles  
+
+================================================================================
+
+PAGE 3:
+ 
+ 
+ 
+ • Agile/SCRUM methodologies  
+• Automation (unit testing, deployment)  
+• Microservices architecture (desirable)  
+For more info/Applicationg o here:  
+https://shoprite.erecruit.co/candidateapp/Jobs/View/SHO260629 -9 
+ 
+ 
+ 
+ 
+
+================================================================================
+
+PAGE 4:
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Business Analyst III – Brackenfell, Cape Town  
+Closing Date:  17 July 2026 Reference:  SHO260515 -3 
+We’re looking for an experienced Business Analyst III  to join our IT team. This 
+permanent role focuses on shaping competitive business processes, analysing 
+requirements, and delivering solutions that drive long -term value.  
+What you’ll do:  
+• Analyse business needs, processes, and systems to identify improvements.  
+• Collaborate with stakeholders to define requirements and recommend 
+solutions.  
+• Lead workshops, mentor junior analysts, and influence decision -making.  
+• Ensure data quality, reporting accuracy, and cost -effective solutions.  
+• Drive change management, risk mitigation, and solution validation.  
+What we’re looking for:  
+• Degree/Diploma in IT or related field (essential).  
+• Advanced Business Analysis certification (preferred).  
+• 5+ years’ BA experience with strong technical background.  
+• Solid knowledge of SDLC, agile methods, and process modelling.  
+• Strong IT skills; SAP exposure is a plus.  
+Why join us:  You’ll play a key role in high -profile, cross -domain projects, helping 
+shape solutions that benefit both the business and its customers.  
+For more info/ Application go  here: 
+https://shoprite.erecruit.co/candidateapp/Jobs/View/SHO260515 -3  
+
+
+================================================================================
+
+PAGE 5:
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data Center Engineering Team Lead – Brackenfell, Cape Town  
+Closing Date:  13 July 2026 Reference:  SHO260629 -10 
+We’re seeking a Data Center Engineering Team Lead  to design, optimise, and 
+manage infrastructure across leased environments. This full -time role ensures 
+resilience, efficiency, and alignment with business needs while guiding a team and 
+engaging with vendors.  
+Key Responsibilities:  
+• Analyse and improve compute, storage, virtualisation, and Unix platforms.  
+• Monitor system health, capacity, and performance.  
+• Lead and support engineering teams, resolving complex issues.  
+• Oversee backup, recovery, and disaster readiness.  
+• Collaborate with stakeholders to deliver scalable solutions.  
+• Manage vendor relationships and drive cost optimisation.  
+Requirements:  
+• Relevant IT qualification.  
+• 5+ years’ experience in data centre engineering/operations.  
+• Strong background in virtualisation, storage, Unix/Linux, and backup 
+technologies.   
+
+
+================================================================================
+
+PAGE 6:
+ 
+ 
+ 
+ • Vendor management experience (beneficial).  
+• 2+ years in a leadership role (advantageous).  
+Preferred Skills:  
+• Exposure to leased data centre environments.  
+• Knowledge of infrastructure optimisation practices.  
+For more info/ Apply here: 
+https://shoprite.erecruit.co/candidateapp/Jobs/View/SHO260629 -10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+General Worker – Darling  
+Closing Date:  31 July 2026 Reference:  TRU260702 -13 Location:  Darling, Western 
+Cape  
+Darling Manufacturers, in partnership with Truworths , is looking for a General 
+Worker  on a temporary contract. The role focuses on keeping the workplace safe 
+and clean, performing light maintenance, and ensuring machinery is well maintained.  
+Key Responsibilities:  
+• Maintain a clean and safe work environment.   
+
+
+================================================================================
+
+PAGE 7:
+ 
+ 
+ 
+ • Perform basic maintenance tasks (e.g., changing light bulbs).  
+• Keep machinery and equipment clean and in good condition.  
+Requirements:  
+• Previous experience as a General Worker.  
+Competencies:  Communication skills, teamwork, attention to detail, and reliability.  
+For more info/ application go here: 
+https://truworths.erecruit.co/candidateapp/Jobs/View/TRU260702 -
+13https://truworths.erecruit.co/candidateapp/Jobs/View/TRU260702 -13  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Line Feeder – Darling  
+Closing Date:  31 July 2026 Reference:  TRU260702 -23 Location:  Darling, Western 
+Cape  
+Darling Manufacturers, in partnership with Truworths , is seeking a Line Feeder  on a 
+temporary contract. The role involves preparing and feeding fabric into production 
+processes, positioning rolls, loading materials, and supporting the team to keep 
+workflow smooth and safe.  
+Key Responsibilities:  
+• Position cloth trucks at the feed end of machines.  
+• Mount rolls of fabric onto brackets.   
+
+
+================================================================================
+
+PAGE 8:
+ 
+ 
+ 
+ • Sew fabric leaders using a portable sewing machine.  
+Requirements:  
+• Previous line feeder experience preferred.  
+Competencies:  Strong communication, teamwork, attention to detail, and reliability.  
+For more info/ application go here: 
+https://truworths.erecruit.co/candidateapp/Jobs/View/TRU260702 -23  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Senior Supervisor – Darling  
+Closing Date:  31 July 2026 Reference:  TRU260703 -1 Location:  Darling, Western 
+Cape  
+Darling Manufacturers, in partnership with Truworths , is seeking a Senior 
+Supervisor  to lead production teams and ensure efficiency, quality, and safety on 
+the clothing manufacturing floor. This permanent role focuses on balancing 
+workloads, enforcing standards, and driving daily production targets.  
+Key Responsibilities:  
+• Supervise operators and manage production lines.  
+• Balance workloads and monitor efficiency.  
+• Support line changeovers and resolve production issues.   
+
+
+================================================================================
+
+PAGE 9:
+ 
+ 
+ 
+ • Ensure garments meet Truworths’ quality standards.  
+• Contribute to pre -production meetings and planning.  
+Requirements:  
+• Matric qualification.  
+• 10+ years’ senior -level clothing production experience.  
+• Diploma in Clothing Production/Management (advantageous).  
+Competencies:  
+• Strong garment construction knowledge.  
+• Proven leadership and problem -solving skills.  
+• Ability to monitor targets and manage production plans.  
+• Quality -focused mindset with a can -do attitude.  
+• Excellent communication and teamwork skills.  
+For more info rmation/ application go here: 
+https://truworths.erecruit.co/candidateapp/Jobs/View/TRU260703 -1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Store Designer – Cape Town  
+Closing Date:  14 August 2026 Reference:  TRU250820 -9 Location:  Western Cape, 
+South Africa   
+
+
+================================================================================
+
+PAGE 10:
+ 
+ 
+ 
+ Join Truworths , South Africa’s leading fashion retailer, and be part of a creative 
+team shaping the future of retail spaces. We’re looking for a Store Designer  to 
+develop innovative layouts and design solutions that reflect our brand’s style and 
+enhance the customer experience.  
+Key Responsibilities:  
+• Design store layouts and floor plans aligned with brand identity and 
+operational needs.  
+• Collaborate with internal teams and external partners to ensure cohesive 
+execution.  
+• Create detailed 2D/3D visualisations using AutoCAD, SketchUp, and related 
+tools.  
+• Optimise space planning and customer flow to support sales.  
+• Select materials, finishes, and fixtures within budget and design vision.  
+• Review completed stores and recommend design improvements.  
+Requirements:  
+• Diploma or Degree in Interior Design, Architecture, or related field.  
+• Minimum 5 years’ experience in retail or commercial design.  
+• Proficiency in AutoCAD, SketchUp, and Adobe Suite.  
+• Strong creativity, attention to detail, and project management skills.  
+Competencies:  Creative, detail -oriented, and solutions -focused. Thrives in a 
+fast-paced environment, passionate about retail innovation, and collaborative by 
+nature.  
+For more information/ application go here: 
+https://truworths.erecruit.co/candidateapp/Jobs/View/TRU250820 -9  
+ 
+
+================================================================================
+
+PAGE 11:
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cashier – Cape Gate  
+Closing Date:  16 July 2026  Location:  Cape Gate, Western Cape Division:  Retail 
+Industry:  FMCG Experience Level:  Entry  
+Dis-Chem Pharmacies  is looking for an experienced Cashier  to join the team at our 
+Cape Gate store. You’ll deliver excellent customer service at checkout, ensure 
+accurate transactions, and maintain a secure, efficient point -of-sale environment.  
+Key Responsibilities:  
+• Process customer purchases and payments accurately.  
+• Maintain professionalism and uphold Dis -Chem’s service standards.  
+• Handle returns, exchanges, and loyalty card transactions.  
+• Ensure cash safety and compliance with company procedures.  
+• Report customer feedback and assist with queries.  
+Requirements:  
+• Grade 12 / Matric.  
+• Minimum 6 months’ cashier or till operation experience.  
+• Computer literacy (MS Office).  
+• Strong numerical and communication skills.   
+
+
+================================================================================
+
+PAGE 12:
+ 
+ 
+ 
+ • Willingness to work retail hours.  
+Competencies:  Accuracy, attention to detail, honesty, time management, customer 
+focus, and problem -solving.  
+Benefits:  Market -related salary, medical aid, provident fund, and staff account.  
+For more information/ application go here: https://retail.simplify.hr/Vacancy/192173   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Beauty Therapist – Meadowdale Salon (Germiston)  
+Closing Date:  15 July 2026  Division:  Retail Industry:  Retail Experience Level:  
+Mid-Senior  
+Dis-Chem Pharmacies  is looking for an experienced Beauty Therapist  to join the 
+team at our Meadowdale Salon in Germiston. You’ll deliver exceptional skincare and 
+body treatments, promote salon services, and ensure every client enjoys a 
+world -class beauty experience.  
+Key Responsibilities:   
+
+
+================================================================================
+
+PAGE 13:
+ 
+ 
+ 
+ • Perform facials, waxing, massages, manicures, and pedicures according to 
+Dis-Chem standards.  
+• Provide professional client care and maintain strong customer relationships.  
+• Manage stock levels and ensure equipment is clean and operational.  
+• Stay updated on new products, treatments, and techniques.  
+• Report and respond to customer feedback and queries.  
+Requirements:  
+• Grade 12 / Matric.  
+• 2-year Certificate or Diploma in Beauty Therapy (3 -year qualification 
+advantageous).  
+• Minimum 12 months’ experience in a professional salon (3 years preferred).  
+• Computer literacy and sound numerical skills.  
+• Willingness to work retail hours.  
+Competencies:  
+• Strong knowledge of skin anatomy and treatment contraindications.  
+• Excellent communication and customer -service skills.  
+• Team -oriented, target -driven, and detail -focused.  
+• Experience with advanced treatments (laser, microdermabrasion, slimming, 
+spray tan) advantageous.  
+Benefits:  Market -related salary, medical aid, provident fund, and staff account.  
+For more information/ application go here: https://retail.simplify.hr/Vacancy/165860   
+ 
+
+================================================================================
+
+PAGE 14:
+ 
+ 
+ 
+             
+            
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FP&A Analyst – Studio 88  
+Location:  Head Office, South Africa Department:  Finance Reports To:  Head of 
+Finance Employment Type:  Permanent Qualification:  CA(SA) – mandatory 
+Experience:  1–2 years post -articles  
+About the Role  Studio 88 is seeking a high -calibre FP&A Analyst  to support 
+planning, forecasting, budgeting, and analytical reporting across a retail network of 
+over 1,000 stores and a growing online presence. This role demands strong financial 
+modelling, commercial insight, and the ability to translate complex data i nto 
+actionable business intelligence.  
+Key Responsibilities  
+• Build and maintain dynamic financial models for trading, margin, cost, and 
+working capital.  
+• Lead monthly forecasting and annual budgeting processes.  
+• Deliver variance analyses and management commentary.  
+• Develop Qlik Sense dashboards and BI reports for real -time performance 
+tracking.  
+• Conduct ad hoc analyses on profitability, cost attribution, and store 
+performance.  
+• Support month -end close, audit preparation, and process improvement 
+initiatives.  
+Requirements   
+
+
+================================================================================
+
+PAGE 15:
+ 
+ 
+ 
+ • CA(SA) qualification (registered with SAICA).  
+• Completed SAICA -accredited articles (Big 4 or mid -tier firm).  
+• 1–2 years post -articles experience in FP&A, commercial finance, or business 
+partnering.  
+• Advanced Excel and strong financial modelling skills.  
+• Exposure to BI tools (Qlik Sense, Power BI, Tableau) preferred.  
+• Solid understanding of IFRS, management accounting, and forecasting 
+methodologies.  
+Competencies & Attributes  
+• Intellectual curiosity and analytical strength.  
+• Commercial acumen and business awareness.  
+• Ownership, integrity, and attention to detail.  
+• Strong communication and presentation skills.  
+• Resilience under pressure and a growth mindset.  
+For more info or to apply go here: https://careers88.co.za/job/2 -financial -planning -
+analysis -fpa-analyst/   
+ 
+
+================================================================================
+
+PAGE 16:
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sales Assistant – Pretoria, Gauteng  
+Division:  Operations Reports To:  Store Manager Location:  Studio 88 Group of 
+Companies Experience Level:  Entry to Intermediate  
+Position Overview  As a Sales Assistant  at Studio 88 Group of Companies , you’ll 
+play a vital role in delivering exceptional customer service, driving sales, and 
+maintaining store presentation standards. You’ll assist customers in finding products, 
+process transactions efficiently, and ensure every shopper enjoys a positive 
+experience.  
+Minimum Qualifications  
+• Grade 12 or equivalent.  
+• 1–2 years’ experience in a sales environment (retail clothing experience 
+advantageous).  
+• Proven ability to meet or exceed sales targets.  
+• Experience supporting store operations — restocking, folding, organizing 
+apparel, and maintaining cleanliness.  
+• Proficiency in cash handling, POS systems, and transaction processing.  
+Key Responsibilities   
+
+
+================================================================================
+
+PAGE 17:
+ 
+ 
+ 
+ • Provide friendly, professional customer service and resolve queries effectively.  
+• Assist customers with product selection, sizing, and styling advice.  
+• Upsell and cross -sell complementary products.  
+• Maintain visual merchandising standards and store displays.  
+• Support inventory control through stock organization and spot checks.  
+• Ensure accurate cash handling and transaction processing.  
+• Contribute to a clean, organized, and welcoming store environment.  
+Skills & Attributes  
+• Strong interpersonal and communication skills.  
+• Customer -focused with a positive, professional attitude.  
+• Team player with good time management and reliability.  
+• Self-motivated and able to work under pressure.  
+• Knowledge of clothing brands, sizes, and fashion trends.  
+For more info or to apply go here: https://careers88.co.za/job/pretoria -south -africa -4-
+sales -assistant/   
+ 
+ 
+ 
+ 
+ 
+
+
+================================================================================
+
+PAGE 18:
+ 
+ 
+ 
+ Retail Shop Assistant – Toys R Us / Babies R Us  
+Closing Date:  1 August 2026 Department:  Sales Industry:  Retail Experience 
+Level:  Entry  
+Introduction  Step into the Toys R Us world of AWWWESOME , where imagination 
+runs free! With over 60 stores across South Africa, Namibia, Botswana, and Zambia 
+— plus our new online store — we’re committed to delivering a WOW shopping 
+experience for customers of all ages. We’re looking for a dynamic Retail Shop 
+Assistant  to join our team and help us create unforgettable moments.  
+Job Purpose  Maximise sales by delivering exceptional customer service and 
+ensuring every shopper enjoys a WOW experience.  
+Key Skills Needed  
+• Sales -driven and motivated to meet targets.  
+• Excellent customer service and communication skills.  
+• Tenacious, confident, and enthusiastic.  
+• Strong merchandising and product presentation skills.  
+Key Responsibilities  
+• Provide friendly, professional service to every customer.  
+• Assist with product selection, demonstrations, and advice.  
+• Drive sales, including add -on products and services.  
+• Ensure goods are correctly priced, displayed, and promotions executed.  
+• Maintain store housekeeping and merchandising standards.  
+• Report fast and slow sellers to the Store Manager.  
+• Participate in stock counts and minimise losses.  
+• Protect company assets and manage expenses responsibly.  
+Entry Requirements  
+• Matric Certificate.  
+• Minimum 6 months’ retail experience.  
+• Reliable transport and ability to work shifts.  
+General Duties  
+• Undertake training, appraisals, and personal development reviews.  
+
+================================================================================
+
+PAGE 19:
+ 
+ 
+ 
+ • Maintain confidentiality and comply with SOPs.  
+• Support new technologies and methods introduced by management.  
+For more or to apply: https://toysruscareers.simplify.hr/Vacancy/191961   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Compliance Auditor – Retail Operations  
+Closing Date:  6 August 2026 Department:  Compliance Industry:  Retail 
+Experience Level:  Associate  
+Job Purpose  To strengthen operations by applying a systematic, disciplined 
+approach to auditing and reporting on the effectiveness of risk management, internal 
+controls, and governance processes.  
+Key Skills Needed  
+• Strong analytical and problem -solving ability.  
+• Excellent documentation and communication skills.  
+• Ability to manage large datasets and compile detailed reports.  
+• Knowledge of auditing standards and SOPs.  
+• Adaptability, multitasking, and resilience under pressure.  
+• Meticulous attention to detail and accuracy.  
+• Strong interpersonal skills and ability to work independently or in a team.   
+
+
+================================================================================
+
+PAGE 20:
+ 
+ 
+ 
+ Key Responsibilities  
+• Perform full audit cycles: methodology, fieldwork, and reporting.  
+• Provide independent assurance on risk management, governance, and 
+controls.  
+• Rate compliance against SOPs and maintain objectivity.  
+• Investigate fraud, theft, waste, or embezzlement.  
+• Conduct risk -based audits across admin, inventory, sales, and seasonal 
+processes.  
+• Identify risks proactively and recommend practical solutions.  
+• Evaluate governance and control effectiveness across departments.  
+• Analyze root causes of audit findings and ensure corrective action.  
+• Prepare high -quality audit reports and communicate findings.  
+• Travel to audit sites as required.  
+Entry Requirements  
+• Relevant auditing or compliance qualification.  
+• Associate -level experience in compliance or auditing.  
+• Strong computer literacy and report -writing skills.  
+Behavioral Attributes  
+• Professional, confident, and self -motivated.  
+• Detail -oriented with integrity and objectivity.  
+• Team player with strong accountability.  
+• Able to work under pressure and meet deadlines.  
+For more information or to apply: https://toysruscareers.simplify.hr/Vacancy/192665   
+ 
+ 
+
+================================================================================
+
+PAGE 21:
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Retail Shop Assistant – Toys R Us / Babies R Us  
+Closing Date:  Not specified Department:  Sales Industry:  Retail Experience 
+Level:  Entry  
+Introduction  Step into the Toys R Us world of AWWWESOME , where imagination 
+runs free! With over 60 stores across South Africa, Namibia, Botswana, and Zambia 
+— plus our new online store — we’re committed to delivering a WOW shopping 
+experience for customers of all ages. We’re looking for a passionate Retail Shop 
+Assistant  to join our team and help us create unforgettable moments.  
+Job Purpose  Maximise sales by delivering exceptional customer service and 
+ensuring every shopper enjoys a WOW experience.  
+Key Skills Needed  
+• Sales -driven and motivated to meet targets.  
+• Excellent customer service and communication skills.  
+• Tenacious, confident, and enthusiastic.  
+• Strong merchandising and product presentation skills.  
+Key Responsibilities  
+• Provide friendly, professional service to every customer.  
+• Assist with product selection, demonstrations, and advice.  
+• Drive sales, including add -on products and services.   
+
+
+================================================================================
+
+PAGE 22:
+ 
+ 
+ 
+ • Ensure goods are correctly priced, displayed, and promotions executed.  
+• Maintain store housekeeping and merchandising standards.  
+• Report fast and slow sellers to the Store Manager.  
+• Participate in stock counts and minimise losses.  
+• Protect company assets and manage expenses responsibly.  
+Entry Requirements  
+• Matric Certificate.  
+• Minimum 6 months’ retail experience.  
+• Reliable transport and ability to work shifts.  
+General Duties  
+• Undertake training, appraisals, and personal development reviews.  
+• Maintain confidentiality and comply with SOPs.  
+• Support new technologies and methods introduced by management.  
+For more information or to apply : https://toysruscareers.simplify.hr/Vacancy/181165   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+================================================================================
+
+PAGE 23:
+ 
+ 
+ 
+ Team Leader: Operational Analytics (Operations Delivery)  
+Location:  Johannesburg, South Africa Company:  Capitec Bank Ltd Closing Date:  
+10 July 2026 Department:  Operations Delivery Experience Level:  Mid-Senior  
+Purpose Statement  Lead a team of Business Analysts to analyse business 
+processes, identify improvement opportunities, and deliver sustainable solutions that 
+enhance operational efficiency, effectiveness, and client outcomes. This role drives 
+continuous improvement, enables  business transformation, and ensures operational 
+processes align with strategic objectives.  
+Key Responsibilities  
+• Lead and develop a team of Business Analysts.  
+• Drive continuous improvement and operational optimisation initiatives.  
+• Facilitate process redesign and operational excellence.  
+• Translate business challenges into practical, sustainable solutions.  
+• Build strong stakeholder relationships across business areas.  
+• Foster innovation and a culture of continuous improvement.  
+Experience Required  
+• 3–5 years’ experience leading Business Analysts, Process Analysts, or 
+Continuous Improvement Specialists.  
+• Proven track record in process optimisation and business improvement.  
+• Experience in requirements gathering, solution design, and workshop 
+facilitation.  
+• Exposure to Lean, Agile, Six Sigma, or similar methodologies.  
+• Experience mentoring and developing analytical teams.  
+Qualifications  
+• Minimum: Grade 12 National Certificate and relevant tertiary qualification in 
+Business Administration.  
+• Preferred: Bachelor’s Degree and/or professional qualification in Business 
+Analysis or Data Analysis.  
+Knowledge  
+• Team leadership and operations management practices.  
+• Business analysis methodologies and frameworks.  
+
+================================================================================
+
+PAGE 24:
+ 
+ 
+ 
+ • Process mapping, optimisation, and automation.  
+• Continuous improvement and change management principles.  
+• Root cause analysis and business case development.  
+• Agile delivery methodologies and operational excellence.  
+Skills  
+• Strong analytical and problem -solving skills.  
+• Excellent communication and presentation abilities.  
+• Leadership and stakeholder management.  
+• Project management and reporting skills.  
+• Attention to detail and decision -making under pressure.  
+Conditions of Employment  
+• Clear criminal and credit record.  
+Fore more information or to apply: 
+https://careers.capitecbank.co.za/job/Johannesburg -Team -Leader -Operational -
+Analytics -%28Operations -Delivery%29/1413756233/   
+ 
+ 
+
+
+================================================================================
+
+PAGE 25:
+ 
+ 
+ 
+ OUTsurance Broker – Bloemfontein  
+Location:  Bloemfontein, South Africa Employment Type:  Full-time FAIS Role:  
+Financial Advice Giving  
+Company Overview  For 28 years, OUTsurance  has been driving innovation in the 
+South African insurance industry. As leaders in short -term insurance, we combine 
+digital solutions with human values to deliver exceptional service. Recognised as a 
+Top Employer South Africa since 2022 , we pride ourselves on a vibrant, inclusive 
+culture where employees thrive.  
+What You Get OUT  
+• Fuel card, company laptop, and cellphone.  
+• Comprehensive 6 -week training program.  
+• Career growth opportunities within OUTsurance.  
+• Rewards and recognition programs.  
+• Benefits: Medical aid, pension fund, group life, and disability cover.  
+• Employee wellness programs (counselling, legal advice, financial coaching).  
+• Volunteer opportunities through Staff Helping SA OUT . 
+Role Overview  As an OUTsurance Broker , you will grow and develop the business 
+insurance portfolio by building a book of short -term insurance. You’ll sell personal 
+and commercial lines through prospecting, canvassing, and relationship 
+management.  
+Key Competencies  
+• Entrepreneurial mindset and self -starter attitude.  
+• Strong business acumen and analytical skills.  
+• Excellent communication and presentation abilities.  
+• Relationship management and problem -solving skills.  
+• Resilience, adaptability, and confidence under pressure.  
+Qualifications & Requirements  
+• Matric / National Senior Certificate.  
+• Valid Code B driver’s license and reliable vehicle.  
+• Minimum 3 years’ external sales experience (face -to-face).  
+
+================================================================================
+
+PAGE 26:
+ 
+ 
+ 
+ • Proven experience in lead generation, cold calling, and client relationship 
+management.  
+• FAIS credits and RE5 certification (if previously appointed as a FAIS 
+representative).  
+Additional Information  You will report directly to the Broker Regional Manager  
+and collaborate closely with the wider Commercial team. OUTsurance is committed 
+to diversity, inclusion, and employment equity, welcoming applications from 
+designated groups and persons with disabilities.  
+For more information or to apply: 
+https://jobs.smartrecruiters.com/OUTsurance/744000135469569 -outsurance -broker -
+bloemfontein -  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OUTsurance Broker – Western Cape (Cape Town)  
+Location:  Cape Town, South Africa Employment Type:  Full-time FAIS Role:  
+Financial Advice Giving  
+Company Overview  For 28 years, OUTsurance  has been at the forefront of 
+innovation in the South African insurance industry. As leaders in short -term 
+insurance, we combine digital solutions with human values to deliver exceptional 
+service. Recognised as a Top Employer South Africa since 2022 , we pride 
+ourselves on a vibrant, inclusive culture where employees thrive.  
+What You Get OUT  
+• Fuel card, company laptop, and cellphone.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+================================================================================
+
+PAGE 27:
+ 
+ 
+ 
+ • Comprehensive 6 -week training program.  
+• Career growth opportunities within OUTsurance.  
+• Rewards and recognition programs.  
+• Benefits: Medical aid, pension fund, group life, and disability cover.  
+• Employee wellness programs (counselling, legal advice, financial coaching).  
+• Volunteer opportunities through Staff Helping SA OUT . 
+Role Overview  As an OUTsurance Broker , you will grow and develop the business 
+insurance portfolio by building a book of short -term insurance. You’ll sell personal 
+and commercial lines through prospecting, canvassing, and relationship 
+management.  
+Key Competencies  
+• Entrepreneurial mindset and self -starter attitude.  
+• Strong business acumen and analytical skills.  
+• Excellent communication and presentation abilities.  
+• Relationship management and problem -solving skills.  
+• Resilience, adaptability, and confidence under pressure.  
+• Creative flair and innovative thinking.  
+Qualifications & Requirements  
+• Matric / National Senior Certificate.  
+• Valid Code B driver’s license and reliable vehicle.  
+• Minimum 3 years’ external sales experience (face -to-face).  
+• Proven experience in lead generation, cold calling, and client relationship 
+management.  
+• FAIS credits and RE5 certification (if previously appointed as a FAIS 
+representative).  
+Additional Information  You will report directly to the Broker Regional Manager  
+and collaborate closely with the wider Commercial team. OUTsurance is committed 
+to diversity, inclusion, and employment equity, welcoming applications from 
+designated groups and persons with disabilities.  
+
+================================================================================
+
+PAGE 28:
+ 
+ 
+ 
+ For more information or to apply: 
+https://jobs.smartrecruiters.com/OUTsurance/744000134992116 -outsurance -broker -
+western -cape -  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Client Care Advisor – Centurion  
+Location:  Centurion, South Africa Employment Type:  Full-time FAIS Role:  
+Financial Advice Giving  
+Company Overview  For 28 years, OUTsurance  has been driving innovation in the 
+South African insurance industry. Recognised as a Top Employer South Africa 
+since 2022 , we combine digital solutions with human values to deliver exceptional 
+service. Our people set the bar high with energy, expertise, and passion — making 
+OUTsurance a great place to grow your career.  
+What You Get OUT  
+• Fun, inclusive company culture that embraces diversity.  
+• Rewards and recognition programs.  
+• Benefits: Medical aid, pension fund, group life, and disability cover.  
+• Growth opportunities through internal promotions.  
+• Employee wellness programs (counselling, legal advice, financial coaching).  
+• Central office location with shuttles to Gautrain and taxi rank.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+================================================================================
+
+PAGE 29:
+ 
+ 
+ 
+ • Onsite facilities: clinic, canteen, carwash, barber, beauty salon, sports 
+facilities, daycare centre, maternity rooms, and prayer rooms.  
+• Casual dress code and supportive team environment.  
+Role Overview  As a Client Care Advisor , you will upsell existing clients and service 
+incoming calls within the Client Care Department. The role requires attention to 
+detail, professionalism, and efficiency in handling client queries and complaints, 
+ensuring a positive customer experience.  
+Key Responsibilities  
+• Upsell existing policies and provide excellent client service.  
+• Handle client queries and complaints professionally.  
+• Deliver on sales and retention targets.  
+• Align personal work values with OUTsurance’s values: Awesome Service, 
+Dynamic, Honest, Human, Passionate, and Recognition.  
+Qualifications & Requirements  
+• Matric / National Senior Certificate.  
+• FAIS accreditation essential (RE5 and full qualification for applicants 
+appointed before December 2010).  
+• Extensive sales and customer service experience.  
+• Previous call centre experience in a client -centric or sales environment 
+preferred.  
+Competencies & Attributes  
+• Resilience and adaptability under pressure.  
+• Strong selling, negotiation, and influencing skills.  
+• Excellent interpersonal and communication abilities.  
+• Attention to detail and results -driven mindset.  
+• Team player with initiative and integrity.  
+• Highly motivated, ambitious, and customer -focused.  
+Employment Equity  OUTsurance is committed to fostering an inclusive and diverse 
+workplace. Preference will be given to candidates from designated groups and 
+persons with disabilities who meet the role requirements.  
+
+================================================================================
+
+PAGE 30:
+ 
+ 
+ 
+ For more information or to apply: 
+https://jobs.smartrecruiters.com/OUTsurance/744000135685195 -client -care-advisor   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Executive: Corporate Development  
+Location:  Head Office, South Africa Closing Date:  12 July 2026 Department:  
+Corporate Development Industry:  Mining & Refining Experience Level:  Executive  
+About Impala Platinum  Impala Platinum is a leading mining and refining company 
+committed to innovation, safety, and sustainability. We value diversity and inclusion 
+and strive to create a workplace where everyone can thrive.  
+Purpose of the Role  The Executive: Corporate Development  will lead and 
+advance the Group’s corporate development agenda through rigorous analysis, 
+strategic insight, and disciplined execution of transactions and initiatives. The role 
+focuses on portfolio optimisation, growth strategy, capital allocation, and st rategic 
+investment decision -making, ensuring alignment with Group strategy and 
+governance frameworks.  
+Minimum Qualifications & Requirements  
+• NQF Level 7 qualification in Business, Commerce, Mining, or related 
+discipline.  
+• Post-graduate qualification (MBA, CFA) advantageous.  
+• 10–15 years’ experience in Corporate Development, M&A, Investment 
+Banking, or advisory (mining experience required).   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+================================================================================
+
+PAGE 31:
+ 
+ 
+ 
+ • Proven track record in transaction origination, negotiation, due diligence, and 
+valuation.  
+• Advanced financial modelling and valuation skills.  
+• Strong knowledge of corporate strategy, capital allocation, and growth 
+frameworks.  
+• Excellent analytical, problem -solving, and strategic thinking ability.  
+• Strong interpersonal, emotional intelligence, and communication skills.  
+• Experience leading cross -functional teams and delivering on deadlines.  
+Key Responsibilities  
+• Lead corporate development activities across the Implats Group, including 
+origination, evaluation, due diligence, valuation, negotiation, and execution.  
+• Identify and prioritise acquisitions, partnerships, and growth opportunities.  
+• Manage all aspects of transaction processes, from sourcing to execution.  
+• Integrate market insights, industry trends, and competitive dynamics into 
+strategic investment pipelines.  
+• Provide strategic analysis and insights to support Exco and Board 
+decision -making.  
+• Build and maintain financial models for corporate development and growth 
+initiatives.  
+• Prepare clear, actionable documentation for Board, Exco, and external 
+stakeholders.  
+• Ensure compliance with governance, risk management, and regulatory 
+frameworks.  
+• Engage and influence senior stakeholders, including Exco, Board, investors, 
+and advisors.  
+• Drive cross -functional collaboration to deliver on strategic priorities.  
+Application Process  Applications (CV, copies of qualifications, and ID) must be 
+uploaded via the vacancy portal:  
+• Internal candidates: Intranet → Head Office → Vacancies → Let’s Talk.  
+• External candidates: Visit www.implats.co.za  under Careers and apply online.  
+Additional Information  
+
+================================================================================
+
+PAGE 32:
+ 
+ 
+ 
+ • Shortlisted candidates may undergo psychometric assessments.  
+• If you do not hear from HR within 30 days after the closing date, consider your 
+application unsuccessful.  
+• Preference will be given to candidates from designated groups in line with the 
+Employment Equity Act and the company’s recruitment policy.  
+For more information or to apply: https://www.careers -
+page.com/implats/job/4R67R447   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Corporate Development Manager (D4)  
+Location:  Head Office, South Africa Closing Date:  12 July 2026 Department:  
+Corporate Development Industry:  Mining & Refining Experience Level:  Manager  
+About Impala Platinum  Impala Platinum is a leading mining and refining company 
+committed to innovation, safety, and sustainability. We value diversity and inclusion 
+and strive to create a workplace where everyone can thrive.  
+Purpose of the Role  The Corporate Development Manager  will provide 
+end-to-end support to the Executive: Corporate Development and the wider function 
+in identifying, assessing, sourcing, and implementing corporate development 
+initiatives. These include acquisitions, divestitures, partnerships, and strategic 
+projects aimed at deli vering long -term value to the Group. The role assumes primary 
+responsibility for financial modelling, valuation, and due diligence processes to 
+support strategic decision -making and investment execution.  
+Minimum Qualifications & Requirements   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+================================================================================
+
+PAGE 33:
+ 
+ 
+ 
+ • NQF Level 7 qualification in Business, Commerce, Mining, or related 
+discipline.  
+• 6–8 years’ experience in mining corporate/business development, investment 
+banking, corporate finance, or advisory.  
+• Proven experience in executing M&A and corporate finance transactions, with 
+knowledge of regulatory frameworks.  
+• Strong financial modelling and valuation expertise.  
+• Knowledge of commodities/mining industry and market dynamics.  
+• Excellent analytical, problem -solving, and strategic thinking skills.  
+• Strong communication, presentation, and writing ability.  
+• Self-starter with adaptability in fast -paced environments.  
+• Strong organisational skills with ability to manage multiple projects.  
+Key Responsibilities  
+• Assist in identifying and assessing corporate development opportunities 
+(M&A, partnerships, growth initiatives).  
+• Develop, review, and maintain robust financial and valuation models.  
+• Provide commercial analysis and valuation insights across the Group.  
+• Analyse industry trends, competitor activity, and market developments.  
+• Support execution of corporate transactions and manage projects as required.  
+• Coordinate due diligence processes with internal and external stakeholders.  
+• Prepare detailed valuation analyses, investment cases, and financial insights.  
+• Compile and deliver high -quality Board and Exco papers, reports, and 
+presentations.  
+• Collaborate with advisors and cross -functional teams to ensure successful 
+outcomes.  
+Application Process  Applications (CV, copies of qualifications, and ID) must be 
+uploaded via the vacancy portal:  
+• Internal candidates: Intranet → Head Office → Vacancies → Let’s Talk.  
+• External candidates: Visit www.implats.co.za  under Careers and apply online.  
+Additional Information  
+
+================================================================================
+
+PAGE 34:
+ 
+ 
+ 
+ • Shortlisted candidates may undergo psychometric assessments.  
+• If you do not hear from HR within 30 days after the closing date, consider your 
+application unsuccessful.  
+• Preference will be given to candidates from designated groups in line with the 
+Employment Equity Act and the company’s recruitment policy.  
+For mo re information or to apply: https://www.careers -
+page.com/implats/job/5W97W8X3   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Maintenance Specialist  
+Posting Date:  1 July 2026 Closing Date:  14 July 2026 Location:  Germiston, 
+Gauteng (Extensive travel required) Company:  Sasol Job Requisition ID:  12638 
+OME:  MSA – Energy Marketing & Sales  
+About Sasol  Sasol is a global integrated chemicals and energy company with a 
+75-year heritage. We use our expertise and technologies to safely and sustainably 
+source, manufacture, and market chemical and energy products worldwide. At Sasol, 
+people are at the centre o f everything we do, and we invest in employee 
+development at every stage of the career journey.  
+Purpose of the Role  Provide maintenance management support to Sasol’s 
+Commercial and Retail businesses by managing the Facility Management Company 
+(FMC) to deliver planning, implementation, and control of maintenance activities. 
+Ensure asset optimisation through best practic e maintenance, compliance with 
+safety regulations, and effective stakeholder engagement.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+================================================================================
+
+PAGE 35:
+ 
+ 
+ 
+ Key Accountabilities  
+• Own successful maintenance implementation across Commercial and Retail 
+businesses.  
+• Develop and implement maintenance strategies and preventative schedules.  
+• Identify, analyse, and mitigate risks to acceptable levels.  
+• Ensure compliance with SHE, quality, cost, and schedule requirements.  
+• Maintain inspection records in SAP and hard copy where required.  
+• Manage FMC relationships to ensure SLA compliance and timely resolution of 
+open calls.  
+• Investigate and resolve customer complaints related to engineering activities.  
+• Oversee contractors and consultants for remediation of contaminated sites.  
+• Ensure adherence to legal, statutory, and environmental regulations.  
+• Conduct audits to monitor compliance with safety programmes (KUEs, Life 
+Saving Behaviours, PTRA).  
+• Evaluate contracts and approve FMC quotes in line with technical outputs.  
+• Review FMC performance reports and conduct site visits.  
+• Provide input into updates of SANS codes, internal specifications, and 
+procedures.  
+• Contribute to annual and long -term maintenance budgets and cost control.  
+Formal Education  
+• Bachelor’s degree in Mechanical or Electrical Engineering (or equivalent).  
+Experience  
+• Minimum 6 years relevant experience.  
+License  
+• Valid Code B driver’s license.  
+Skills & Competencies  
+• Collaboration and communication.  
+• Troubleshooting technical issues.  
+• Engineering design and equipment utilisation.  
+
+================================================================================
+
+PAGE 36:
+ 
+ 
+ 
+ • Planning, organisation, and accountability.  
+• Decision -making and problem -solving.  
+Employment Equity  Sasol is an equal opportunity and affirmative action employer. 
+Preference will be given to applicants from designated groups and persons with 
+disabilities, in line with Sasol’s Employment Equity Plan.  
+Note  If you do not hear from Sasol within 60 days of the closing date, please 
+consider your application unsuccessful.  
+For more information or to apply: https://jobs.sasol.com/job/Sandton -Maintenance -
+Specialist/1410262433/   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Junior Chemical Plant Operator (Jnr CPO)  
+Posting Date:  2 July 2026 Closing Date:  16 July 2026 Location:  Secunda, 
+Mpumalanga Company:  Sasol Job Requisition ID:  12619 OME:  OPP – Secunda 
+Operations  
+About Sasol  Sasol is a global integrated chemicals and energy company with a 
+75-year heritage. We use our expertise and technologies to safely and sustainably 
+source, manufacture, and market chemical and energy products worldwide. At Sasol, 
+people are at the centre of everything we do, and we invest in employee 
+development at every st age of the career journey.  
+Purpose of the Role  Coordinate and direct maintenance and repair services for a 
+specific process within a production line, through control panel management and 
+advanced troubleshooting.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+================================================================================
+
+PAGE 37:
+ 
+ 
+ 
+ Key Accountabilities  
+• Provide feedback to supervisors on work progress.  
+• Participate in risk assessments to improve safety.  
+• Maintain good housekeeping and adhere to waste disposal procedures.  
+• Work independently and understand business KPIs.  
+• Apply and maintain safety standards in the working environment.  
+• Participate in shift handovers and toolbox talks.  
+• Identify personal training needs and incorporate into PDP .  
+• Coach learners and present on specific plant equipment.  
+• Conduct IMS inspections to improve plant sustainability.  
+• Play a key role during emergency situations to restore plant operations.  
+• Collaborate effectively with team members and other disciplines.  
+Formal Education  
+• Matric/N3 with Maths, English, and Physical Science.  
+• CHIETA NQF Level 2, or  
+• Chemical Plant Operator Occupational Qualification (CPO EISA).  
+Experience  
+• Minimum 2 years relevant experience.  
+License  
+• Valid driver’s license (Code B).  
+Skills & Competencies  
+• Optimises work processes and drives results.  
+• Effective communication and collaboration.  
+• Troubleshooting and equipment utilisation.  
+• Production resource and risk management.  
+• Planning, organisation, and accountability.  
+Employment Equity  Sasol is an equal opportunity and affirmative action employer. 
+Preference will be given to applicants from designated groups and persons with 
+disabilities, in line with Sasol’s Employment Equity Plan.  
+
+================================================================================
+
+PAGE 38:
+ 
+ 
+ 
+ Note  If you do not hear from Sasol within 60 days of the closing date, please 
+consider your application unsuccessful.  
+For more information or to apply: https://jobs.sasol.com/job/Secunda -Junior -
+Chemical -Plant -Operator -%28Jnr -CPO%29/1410924533/   
+ 
+
+================================================================================
+
