@@ -5,8 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Browse Jobs - Jobs and Gigs</title>
   <link rel="stylesheet" href="style.css">
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3739452298541283"
-     crossorigin="anonymous"></script>
 </head>
 <body>
   <!-- HEADER -->
@@ -238,10 +236,11 @@
       visibleJobs.forEach(job => {
         const jobCard = document.createElement('div');
         jobCard.className = 'job-card';
+        const imageSrc = job.image ? (job.image.startsWith('/') ? job.image : `/${job.image}`) : '';
         jobCard.innerHTML = `
           <div class="job-card-header">
             <div>
-              ${job.image ? `<img src="${job.image}" alt="${job.title}" class="job-card-image">` : ''}
+              ${imageSrc ? `<img src="${imageSrc}" alt="${job.title}" class="job-card-image">` : ''}
               <h3>${job.title}</h3>
               <div class="company">${job.company}</div>
               <div class="job-meta">
